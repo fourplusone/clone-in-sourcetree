@@ -1,4 +1,4 @@
 Clone in SourceTree
 ===================
 
-A Safari/Chrome Extension which will add a "Clone in SourceTree" button to Github.
+A Safari/Chrome Extension which adds a "Clone in SourceTree" button to Github.
