@@ -1,0 +1,12 @@
+{
+  "name": "Clone in SourceTree",
+  "version": "1.0",
+  "description": "Adds \"Clone in SourceTree\" button to Github",
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "css": ["style.css"],
+      "js": ["jquery.min.js", "inject-gh.js"]
+    }
+  ]
+}
