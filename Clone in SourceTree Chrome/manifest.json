@@ -1,6 +1,7 @@
 {
   "name": "Clone in SourceTree",
   "version": "1.0",
+  "manifest_version": 2,
   "description": "Adds \"Clone in SourceTree\" button to Github",
   "content_scripts": [
     {
